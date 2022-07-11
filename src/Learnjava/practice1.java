@@ -17,6 +17,7 @@ public class practice1 {
 		System.out.println("Double: " + d);
 		System.out.println("Int: " + i);
 		System.out.println("Monday seven thirty");
+		System.out.println("Monday seven fourty");
 		//		scan.close();
 	}
 }
