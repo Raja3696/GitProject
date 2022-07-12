@@ -19,6 +19,7 @@ public class practice1 {
 		System.out.println("Monday seven thirty");
 		System.out.println("Monday seven fourty");
 		System.out.println("Tuesday Nine Thiry Five");
+		System.out.println("Tuesday Ten Three");
 		//		scan.close();
 	}
 }
