@@ -6,5 +6,29 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/Downloads/jar_files.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/.m2/repository/net/minidev/json-smart/2.4.10/json-smart-2.4.10.jar" sourcepath="C:/Users/Raja/.m2/repository/net/minidev/json-smart/2.4.10/json-smart-2.4.10-sources.jar">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="net.minidev"/>
+			<attribute name="maven.artifactId" value="json-smart"/>
+			<attribute name="maven.version" value="2.4.10"/>
+			<attribute name="maven.scope" value="runtime"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Raja/.m2/repository/org/json/json/20220320/json-20220320.jar" sourcepath="C:/Users/Raja/.m2/repository/org/json/json/20220320/json-20220320-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.json"/>
+			<attribute name="maven.artifactId" value="json"/>
+			<attribute name="maven.version" value="20220320"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Raja/EclipseLibraris/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/EclipseLibraris/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/EclipseLibraris/jackson-core-2.15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Raja/EclipseLibraris/jackson-databind-2.15.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
